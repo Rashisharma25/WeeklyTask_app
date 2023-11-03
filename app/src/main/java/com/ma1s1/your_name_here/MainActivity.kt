@@ -23,8 +23,8 @@ class MainActivity : AppCompatActivity() {
 
 
         task1Button.setOnClickListener{
-            var task1intent = Intent(this, Task1Activity::class.java)
-            task1intent.putExtra("value_to_send_from_main_activity",value_from_main_activity)
+            var task1intent = Intent(this, screen2::class.java)
+            //task1intent.putExtra("value_to_send_from_main_activity",value_from_main_activity)
             startActivity(task1intent)
         }
 //

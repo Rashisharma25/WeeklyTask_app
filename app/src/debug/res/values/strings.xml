@@ -1,5 +1,4 @@
-
 <resources>
-<string name="app_name">Weekly_Assignment</string>
-<string name="version1">version1</string>
+    <string name="app_name">Weekly_Assignment</string>
+    <string name="version1">version1</string>
 </resources>
