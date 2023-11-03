@@ -67,7 +67,7 @@
                 android:id="@+id/task1Button"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Task 1"
+                android:text="Open Here"
                 android:textColor="#FFEB3B" />
 
             <ImageView
