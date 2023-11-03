@@ -6,10 +6,10 @@
 
 
     <!-- Define pastel colors for dark theme -->
-    <color name="tealPastel">#66A5AD</color>
+    <color name="tealPastel">#3B7B83</color>
     <color name="tealDarkPastel">#326273</color>
-    <color name="magentaPastel">#CC5D87</color>
-    <color name="yellowPastel">#FFE156</color>
+    <color name="magentaPastel">#E43678</color>
+    <color name="yellowPastel">#EAC82E</color>
 
     <!-- Define a dark background color -->
     <color name="darkBackground">#121212</color>
